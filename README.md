@@ -20,7 +20,7 @@ The database is also widely used for training and testing in the field of machin
 
 - ploting loss with each epoch of model
 
--Overall Summary (Conclusion) .
+- Overall Summary (Conclusion) .
 
 <nav style="text-align:center">
   
